@@ -32,6 +32,8 @@ installRequirements() {
     python3-setuptools \
     python3-virtualenv \
     bind9-host \
+    fail2ban \
+    kitty-terminfo \
     jq -y
 }
 
